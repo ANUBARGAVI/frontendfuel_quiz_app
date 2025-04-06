@@ -1,0 +1,1 @@
+##FrontendFuel is an interactive quiz application built with Vue 3, Vue Router, and Tailwind CSS. Users can explore topics, take quizzes on HTML, CSS, and JavaScript, and view their results.

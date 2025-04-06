@@ -1,0 +1,171 @@
+[
+    {
+      "id": "html",
+      "title": "HTML Quiz",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Text Markup Language", "Hyper Tool Markup Language"],
+          "answer": "Hyper Text Markup Language"
+        },
+        {
+          "question": "Choose the correct HTML element for the largest heading:",
+          "options": ["<heading>", "<h6>", "<head>", "<h1>"],
+          "answer": "<h1>"
+        },
+        {
+          "question": "Which HTML tag is used to define an internal style sheet?",
+          "options": ["<style>", "<css>", "<script>", "<link>"],
+          "answer": "<style>"
+        },
+        {
+          "question": "Which HTML attribute is used to define inline styles?",
+          "options": ["style", "class", "font", "styles"],
+          "answer": "style"
+        },
+        {
+          "question": "What is the correct HTML element for inserting a line break?",
+          "options": ["<break>", "<br>", "<lb>", "<hr>"],
+          "answer": "<br>"
+        },
+        {
+          "question": "Which element is used to link an external CSS file?",
+          "options": ["<style>", "<css>", "<link>", "<script>"],
+          "answer": "<link>"
+        },
+        {
+          "question": "Which tag is used to create a checkbox in HTML?",
+          "options": ["<input type='checkbox'>", "<checkbox>", "<input type='check'>", "<check>"],
+          "answer": "<input type='checkbox'>"
+        },
+        {
+          "question": "How do you create an ordered list?",
+          "options": ["<ul>", "<ol>", "<li>", "<list>"],
+          "answer": "<ol>"
+        },
+        {
+          "question": "What is the correct HTML for adding a background color?",
+          "options": ["<body style='background-color:yellow;'>", "<background>yellow</background>", "<body bg='yellow'>", "<bg>yellow</bg>"],
+          "answer": "<body style='background-color:yellow;'>"
+        },
+        {
+          "question": "Which tag defines a table row?",
+          "options": ["<tr>", "<td>", "<th>", "<row>"],
+          "answer": "<tr>"
+        }
+      ]
+    },
+    {
+      "id": "css",
+      "title": "CSS Quiz",
+      "questions": [
+        {
+          "question": "What does CSS stand for?",
+          "options": ["Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+          "answer": "Cascading Style Sheets"
+        },
+        {
+          "question": "Which property is used to change the background color?",
+          "options": ["color", "background-color", "bgcolor", "background"],
+          "answer": "background-color"
+        },
+        {
+          "question": "Which property is used to change the text color of an element?",
+          "options": ["text-color", "fgcolor", "color", "font-color"],
+          "answer": "color"
+        },
+        {
+          "question": "How do you add a comment in CSS?",
+          "options": ["// comment", "/* comment */", "<!-- comment -->", "# comment"],
+          "answer": "/* comment */"
+        },
+        {
+          "question": "Which CSS property controls the text size?",
+          "options": ["font-style", "text-size", "font-size", "text-style"],
+          "answer": "font-size"
+        },
+        {
+          "question": "Which is the correct CSS syntax?",
+          "options": ["body:color=black;", "{body;color:black;}", "body {color: black;}", "body = color: black;"],
+          "answer": "body {color: black;}"
+        },
+        {
+          "question": "How do you select an element with id 'demo'?",
+          "options": ["#demo", ".demo", "*demo", "demo"],
+          "answer": "#demo"
+        },
+        {
+          "question": "How do you select elements with class name 'test'?",
+          "options": [".test", "#test", "*test", "test"],
+          "answer": ".test"
+        },
+        {
+          "question": "Which property is used to change the font of an element?",
+          "options": ["font-style", "font-weight", "font-family", "font-variant"],
+          "answer": "font-family"
+        },
+        {
+          "question": "How do you make a list that lists its items with squares?",
+          "options": ["list-style-type: square;", "list: square;", "type: square;", "bullet-style: square;"],
+          "answer": "list-style-type: square;"
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "title": "JavaScript Quiz",
+      "questions": [
+        {
+          "question": "Which is a JavaScript data type?",
+          "options": ["number", "boolean", "string", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the correct syntax for referring to an external script?",
+          "options": ["<script name='xxx.js'>", "<script href='xxx.js'>", "<script src='xxx.js'>", "<script file='xxx.js'>"],
+          "answer": "<script src='xxx.js'>"
+        },
+        {
+          "question": "Inside which HTML element do we put JavaScript?",
+          "options": ["<script>", "<js>", "<javascript>", "<code>"],
+          "answer": "<script>"
+        },
+        {
+          "question": "Which operator is used to assign a value to a variable?",
+          "options": ["*", "-", "=", "=="],
+          "answer": "="
+        },
+        {
+          "question": "How do you declare a JavaScript variable?",
+          "options": ["v carName;", "variable carName;", "var carName;", "let carName;"],
+          "answer": "var carName;"
+        },
+        {
+          "question": "Which method adds a new element to the end of an array?",
+          "options": ["push()", "pop()", "shift()", "unshift()"],
+          "answer": "push()"
+        },
+        {
+          "question": "What will `typeof null` return?",
+          "options": ["object", "null", "undefined", "number"],
+          "answer": "object"
+        },
+        {
+          "question": "How do you create a function in JavaScript?",
+          "options": ["function = myFunc()", "function myFunc()", "def myFunc()", "func myFunc()"],
+          "answer": "function myFunc()"
+        },
+        {
+          "question": "Which symbol is used for comments in JavaScript?",
+          "options": ["<!-- -->", "//", "/* */", "Both // and /* */"],
+          "answer": "Both // and /* */"
+        },
+        {
+          "question": "What is the result of `2 + '2'`?",
+          "options": ["4", "22", "NaN", "undefined"],
+          "answer": "22"
+        }
+      ]
+    }
+  ]
+  

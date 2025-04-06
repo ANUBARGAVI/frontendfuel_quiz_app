@@ -1,0 +1,33 @@
+[
+    {
+      "id": "Math",
+      "questions": [
+        {
+          "question": "What is 2 + 2?",
+          "options": ["2", "3", "4", "5"],
+          "answer": "4"
+        },
+        {
+          "question": "What is 5 * 3?",
+          "options": ["8", "15", "10", "20"],
+          "answer": "15"
+        }
+      ]
+    },
+    {
+      "id": "Science",
+      "questions": [
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+          "answer": "Mars"
+        },
+        {
+          "question": "What gas do plants absorb?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "answer": "Carbon Dioxide"
+        }
+      ]
+    }
+  ]
+  
